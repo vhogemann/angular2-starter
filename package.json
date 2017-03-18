@@ -18,8 +18,6 @@
     "debugTest": "gulp test:debug",
     "preversion": "npm test",
     "postversion": "git push && git push --tags",
-    "snapshot": "gulp artifact:snapshot --env=production",
-    "release": "gulp artifact:release --env=production"
   },
   "pre-commit": [
     "test"
