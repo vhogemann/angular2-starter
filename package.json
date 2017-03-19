@@ -1,6 +1,11 @@
 {
   "name": "angular2-starter",
   "version": "0.1.0",
+  "author": {
+    "name": "Victor Hogemann",
+    "email": "victor@hogemann.com",
+    "url": "http://victor.hogemann.com"
+  },
   "description": "Starter template for Angular2 projects",
   "repository": {
     "type": "git",
