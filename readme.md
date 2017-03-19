@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/vhogemann/angular2-starter.svg?branch=master)](https://travis-ci.org/vhogemann/angular2-starter)
+
 # Angular 2 Starter
 
 ## Overview
