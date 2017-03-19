@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "description": "Starter template for Angular2 projects",
   "repository": {
+    "type": "git",
+    "url": "git@github.com:vhogemann/angular2-starter.git"
   },
   "keywords": [
     "angular",
@@ -18,6 +20,7 @@
     "debugTest": "gulp test:debug",
     "preversion": "npm test",
     "postversion": "git push && git push --tags",
+    "postinstall": "webdriver-manager update"
   },
   "pre-commit": [
     "test"
